@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    margin: 0;
+}
+
+h2 {
+    display: flex;
+    height: 80vh;
+    font-size: 100px;
+    justify-content: center;
+    align-items: end ;
+}
