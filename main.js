@@ -15,6 +15,6 @@ if(login.toLowerCase() === "mars" && parol.toLowerCase() === "it school"){
     h1.textContent = "Login yoki parol notogri terilgan"
     h2.textContent = ""
     body.style = "background-color: red; display: flex; aligh-items: center; height: 100vh; width: 100vw; justify-content: center;"
-    h1.style = "display:flex; color: black; font-size: 150px;"
+    h1.style = "display:flex; color: black; font-size: 150px; text-align: center;;"
 }
     
